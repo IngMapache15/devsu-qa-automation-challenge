@@ -1,0 +1,27 @@
+HALLAZGOS
+
+Se validó correctamente el ciclo CRUD de usuarios
+utilizando los servicios REST de PetStore.
+
+Pruebas ejecutadas:
+
+- Creación de usuario
+- Consulta de usuario
+- Actualización de usuario
+- Consulta posterior a actualización
+- Eliminación de usuario
+
+RESULTADOS
+
+Todos los servicios respondieron con código HTTP 200.
+
+Se generaron evidencias JSON para cada operación.
+
+Se generó reporte HTML de ejecución.
+
+CONCLUSIONES
+
+La API permite administrar usuarios mediante operaciones CRUD.
+La automatización facilita la validación rápida y repetible de los servicios.
+La solución implementada puede ampliarse para incluir validaciones adicionales,
+autenticación y pruebas negativas.
